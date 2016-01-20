@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: stethomodule
+author: Joseba Alonso
+license: Specify your license
+copyright: Refr3sh
+
+# these should not be edited
+name: stethomodule
+moduleid: ti.stetho
+guid: 7b5cf677-6c9b-47eb-b7b3-e91e7be30b97
+platform: android
+minsdk: 5.0.0.GA
