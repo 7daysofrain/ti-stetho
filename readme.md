@@ -8,8 +8,17 @@ Simple module to work with the Chrome Developer tools inside your Android Appcel
 
 To make it work simply put this line in your index.js
 
+``` javascript
 var stethomodule = require("ti.stetho");
+```
 
+Inside Chrome you type:
+
+```
+chrome://inspect/
+```
+
+and select the device
 
 ## Author
 
