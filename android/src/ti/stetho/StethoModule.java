@@ -24,7 +24,6 @@ public class StethoModule extends KrollModule
 	// Standard Debugging variables
 	private static final String LCAT = "StethomoduleModule";
 	private static final boolean DBG = TiConfig.LOGD;
-
 	// You can define constants with @Kroll.constant, for example:
 	// @Kroll.constant public static final String EXTERNAL_NAME = value;
 
@@ -48,4 +47,3 @@ public class StethoModule extends KrollModule
 	}
 
 }
-
