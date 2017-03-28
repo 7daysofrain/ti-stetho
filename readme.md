@@ -1,5 +1,9 @@
 # stethomodule Module
 
+## Update
+
+Im not updating this. There is a newer version with download here: https://github.com/m1ga/ti-stetho/releases
+
 ## Description
 
 Simple module to work with the Chrome Developer tools inside your Android Appcelerator Titanium application. This is using Facebook's Stetho. More info here: http://facebook.github.io/stetho/
